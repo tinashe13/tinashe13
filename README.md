@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @tinashe13
+- 👀 I’m interested in Python, Javascript (React, Node.js and Vue)
+- 🌱 I’m currently learning at Midlands STate University
+- 💞️ I’m looking to collaborate on as many projects as you can name
+- 📫 How to reach me info@tinashedzemwa.com
+
+<!---
+tinashe13/tinashe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
