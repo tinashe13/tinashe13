@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinashe13
 - 👀 I’m interested in Python, Javascript (React, Node.js and Vue)
-- 🌱 I’m currently learning at Midlands STate University
+- 🌱 I’m currently learning at Midlands State University
 - 💞️ I’m looking to collaborate on as many projects as you can name
 - 📫 How to reach me info@tinashedzemwa.com
 
