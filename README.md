@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @tinashe13
-- 👀 I’m interested in Python, Javascript (React, Node.js and Vue)
-- 🌱 I’m currently learning at Midlands State University
-- 💞️ I’m looking to collaborate on as many projects as you can name
-- 📫 How to reach me info@tinashedzemwa.com
-- 🧠  I'm learning Angular
 
 <!---
 tinashe13/tinashe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,15 +14,17 @@ Software Developer
 I am passionate about technology and enjoy finding ways to make it work. I love exploring new technologies, experimenting with them, and sharing them. I aim to be part of something innovative that makes people's lives easier and more enjoyable. Technology is an ever-changing tool and we should keep learning and evolving it so I want to share my skills with others through my work in tech
 
 * 🌍  I'm based in Harare
-* 🖥️  See my portfolio at [Mqographics](http://mqographics.co.zw)
+* 🖥️  See my portfolio at [Tinashe Dzemwa](https://tinashedzemwa.com)
 * ✉️  You can contact me at [tinashedzemwa300.com](mailto:tinashedzemwa300@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on projects
+* 🤝  I’m interested in Python, Javascript (React, Node.js and Vue)
+
+
 
 <a href="https://www.twitter.com/tinashe13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mqoeyyy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Mqoey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mqoey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/twitter/follow/tinashe13?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/tinashe13" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tinashe13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -50,15 +46,12 @@ src="https://img.shields.io/github/followers/Mqoey?logo=github&style=for-the-bad
 </p>
 
 
-### Socials
-
-
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tinashe13"><img src="https://github-readme-stats.vercel.app/api?username=Mqoey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tinashe's GitHub stats" /></a>
+<a href="http://www.github.com/tinashe13"><img src="https://github-readme-stats.vercel.app/api?username=Tinashe13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tinashe's GitHub stats" /></a>
 
 <a href="http://www.github.com/tinashe13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tinashe13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
