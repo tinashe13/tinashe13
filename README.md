@@ -10,7 +10,5 @@ tinashe13/tinashe13 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Skills
-C# JavaScript Java PHP HTML5 React Vue Angular NodeJS MySQL Firebase Heroku .NET Laravel
 
 
