@@ -16,8 +16,8 @@ I am passionate about technology and enjoy finding ways to make it work. I love 
 * 🌍  I'm based in Harare
 * 🖥️  See my portfolio at [Tinashe Dzemwa](https://tinashedzemwa.com)
 * ✉️  You can contact me at [tinashedzemwa300@gmail.com](mailto:tinashedzemwa300@gmail.com)
-* 🧠  I'm learning Express
-* 🤝  I’m interested in Python, Javascript (React, Node.js and Vue)
+* 🧠  I'm learning Express and Angular
+* 🤝  I’m interested in C#, Python, Javascript (React)
 
 
 
