@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tinashe Dzemwa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tsepo Tinashe Dzemwa Nyakonda
 =======================================================================================================================================
 
 Software Developer
@@ -13,18 +13,13 @@ Software Developer
 
 I am passionate about technology and enjoy finding ways to make it work. I love exploring new technologies, experimenting with them, and sharing them. I aim to be part of something innovative that makes people's lives easier and more enjoyable. Technology is an ever-changing tool and we should keep learning and evolving it so I want to share my skills with others through my work in tech
 
-* 🌍  I'm based in Harare
-* 🖥️  See my portfolio at [Tinashe Dzemwa](https://tinashedzemwa.com)
-* ✉️  You can contact me at [tinashedzemwa300@gmail.com](mailto:tinashedzemwa300@gmail.com)
+* 🌍  I'm from Harare, Zimbabwe
+* ✉️  You can contact me at [tsepodev@gmail.com](mailto:tsepodev@gmail.com)
 * 🧠  I'm learning Express and Angular
 * 🤝  I’m interested in C#, Python, Javascript (React)
 
 
 
-<a href="https://www.twitter.com/tinashe13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tinashe13?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/tinashe13" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tinashe13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
