@@ -15,10 +15,6 @@ I am passionate about technology and enjoy finding ways to make it work. I love 
 
 * 🌍  I'm from Harare, Zimbabwe
 * ✉️  You can contact me at [tsepodev@gmail.com](mailto:tsepodev@gmail.com)
-* 🧠  I'm learning Express and Angular
-* 🤝  I’m interested in C#, Python, Javascript (React)
-
-
 
 
 ### Skills
