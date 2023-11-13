@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tsepo Tinashe Nyakonda
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tinashe Dzemwa 
 =======================================================================================================================================
 
 Software Developer
@@ -13,8 +13,8 @@ Software Developer
 
 I am passionate about technology and enjoy finding ways to make it work. I love exploring new technologies, experimenting with them, and sharing them. I aim to be part of something innovative that makes people's lives easier and more enjoyable. Technology is an ever-changing tool and we should keep learning and evolving it so I want to share my skills with others through my work in tech
 
-* 🌍  I'm from Harare, Zimbabwe
-* ✉️  You can contact me at [tsepodev@gmail.com](mailto:tsepodev@gmail.com)
+* 🌍  I'm based in USA.
+* ✉️  You can contact me at [tinashedzemwa300@gmail.com](mailto:tinashedzemwa300@gmail.com)
 
 
 ### Skills
