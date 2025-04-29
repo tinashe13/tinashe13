@@ -25,7 +25,7 @@ I am passionate about technology and enjoy finding ways to make it work. I love 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c++.svg"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cpp.svg"
     width="36"
     height="36"
     alt="C++"
