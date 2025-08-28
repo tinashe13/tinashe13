@@ -50,6 +50,5 @@ I am passionate about technology and enjoy finding ways to make it work. I love 
 
 
 
-### Badges
 
 
