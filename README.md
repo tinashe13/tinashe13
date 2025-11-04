@@ -14,7 +14,7 @@ Software Engineer
 I am passionate about technology and enjoy finding ways to make it work. I love exploring new technologies, experimenting with them, and sharing them. I aim to be part of something innovative that makes people's lives easier and more enjoyable. Technology is an ever-changing tool and we should keep learning and evolving it so I want to share my skills with others through my work in tech
 
 * 🌍  I'm based in USA.
-* ✉️  You can contact me at [tinashedzemwa300@gmail.com](mailto:tinasheswe@gmail.com)
+* ✉️  You can contact me at [tinasheswe@gmail.com](mailto:tinasheswe@gmail.com)
 
 
 ### Skills
